@@ -1,0 +1,122 @@
+#gora {
+  text-align: center;
+  letter-spacing: 7px;
+  color: whitesmoke;
+}
+
+body {
+  background-color: Crimson;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  background: none;
+  margin-left: 250px;
+}
+
+.blok1 {
+  color: white;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: 0.5s;
+  float: left;
+  margin: 10px;
+}
+
+.blok2 {
+  color: white;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: 0.5s;
+  float: left;
+  margin: 10px;
+}
+
+.blok3 {
+  color: white;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: 0.5s;
+  float: left;
+  margin: 10px;
+}
+
+.blok4 {
+  color: white;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: 0.5s;
+  float: left;
+  margin: 10px;
+}
+
+.blok5 {
+  color: white;
+  text-align: center;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  transition: 0.5s;
+  float: left;
+  margin: 10px;
+}
+
+.blok1:hover {
+  border-color: white;
+  transition: 0.5s;
+}
+
+.blok2:hover {
+  border-color: white;
+  transition: 0.5s;
+}
+
+.blok3:hover {
+  border-color: white;
+  transition: 0.5s;
+}
+.blok4:hover {
+  border-color: white;
+  transition: 0.5s;
+}
+.blok5:hover {
+  border-color: white;
+  transition: 0.5s;
+}
+
+footer {
+  background-color: whitesmoke;
+  height: 260px;
+  width: 100%;
+  margin-top: 200px;
+}
+
+.elo {
+  text-align: center;
+  letter-spacing: 7px;
+}
+
+.elo2 {
+  font-weight: 600;
+}
+
+select {
+  width: 10%;
+}
+
+.autor {
+  float: right;
+}
